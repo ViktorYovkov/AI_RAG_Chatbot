@@ -21,7 +21,7 @@ Retrieval-Augmented Generation (RAG) chatbot, built using Python and LangChain t
 2. An OpenAI API Key (with available API credits).
 
 ### Installation
-1. **Clone the repository:**
+## **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/AI_RAG_Chatbot.git](https://github.com/yourusername/AI_RAG_Chatbot.git)
    cd AI_RAG_Chatbot
@@ -40,7 +40,7 @@ python main.py
 pip install -r requirements.txt
 
 ### Set up your environment variables:
-1.Create a file named .env in the root directory of the project and add your OpenAI API key:
+## Create a file named .env in the root directory of the project and add your OpenAI API key:
 OPENAI_API_KEY="your-api-key-here"
 
 ### Project structure:
